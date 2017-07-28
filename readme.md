@@ -1,5 +1,14 @@
 offbit
 ======
+  
+  
+WARNING: COMPLETELY OUTDATED. DO NOT USE.   
+  
+Would be nice to rebase on electrum libs...
+  
+  
+  
+  
 v0.001
 2014 hobbes / bitcointalk
 https://github.com/bithobbes/offbit
